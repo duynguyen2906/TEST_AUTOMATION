@@ -1,0 +1,14 @@
+{
+  "name": "test_automation",
+  "version": "1.0.0",
+  "description": "To learn automation testing.",
+  "main": "(nightwatch.js)",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "duynguyen2906",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
